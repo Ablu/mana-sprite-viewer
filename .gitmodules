@@ -1,0 +1,3 @@
+[submodule "libmana"]
+	path = libmana
+	url = git://github.com/mana/manamobile.git
